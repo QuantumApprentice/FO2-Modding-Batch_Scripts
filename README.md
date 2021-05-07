@@ -2,7 +2,7 @@
 A collection of the batch scripts I've created to assist modding Fallout 2
 
 worldmap_2_tiles.bat - Uses FFmpeg to cut up a 1400x1500 pixel image file 
-                       into 20 different 300x350 pixel image tiles for
+                       into 20 different 300x350 pixel PNG image tiles for
                        Frame Animator.
 
 WorldMapTile2FRM.FAS - Used by Frame Animator to convert a list of PNG 
